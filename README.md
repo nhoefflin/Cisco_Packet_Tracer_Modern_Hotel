@@ -1,4 +1,4 @@
-![image alt](https://github.com/nhoefflin/Cisco_Packet_Tracer_Proj1/blob/3ea9a89b1784298a56896c522d7f530344aacee2/ClassC_3subs.jpg)<br><br>
+![image alt](https://github.com/nhoefflin/Cisco_Packet_Tracer_Modern_Hotel/blob/921deb1e80905a8732395d0d124c1c80c9fca069/modern_hotel.jpg)<br><br>
 <br><br>
 Design and implement a modern hotel network. 
 The hotel has three floors; on the first floor there are three departmnets (reception, store, and logistics), 
